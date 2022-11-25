@@ -1,0 +1,34 @@
+h1 strong{
+color: aqua;
+font-size:40px;
+}
+p strong{
+    color:rgb(6, 139, 95);
+    font-size:40px;
+}
+#encabezado{
+    color:blue;
+    text-align: center;
+    font-family: verdana;
+    background-color: #ffff00;
+
+    border-top-width: 1px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 1px;
+
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;   
+    border-left-style: solid;
+    
+    border-top-color: #000000;
+    border-right-color: #000000;
+    border-bottom-color: #000000;   
+    border-left-color: #000000;
+}
+p{
+    color:blue;
+    text-align: center;
+    font-family: verdana;
+}
