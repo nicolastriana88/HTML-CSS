@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: darkblue;
+
+}
+.circulorelleno{
+    list-style-type: disc;
+    text-align: justify;
+    color:deeppink;
+    border: solid;
+     }
+.decimal{
+        list-style-type: decimal;
+        text-align: justify;
+        color: lightseagreen;
+        border: solid;
+    }
+.cuadrado{
+        list-style-type: square;
+        text-align: justify;
+        color: yellowgreen;
+        border: solid;
+    }
